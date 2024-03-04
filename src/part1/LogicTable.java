@@ -1,4 +1,6 @@
+package part1;
 // Make a program which creates a sort of truth table to show the behavior of all the logical operators
+
 // mentioned.
 
 // Hints: 

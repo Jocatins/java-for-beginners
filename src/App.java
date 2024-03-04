@@ -1,3 +1,4 @@
+
 public class App {
     public static void main(String[] args) throws Exception {
 
@@ -9,13 +10,6 @@ public class App {
         // System.out.println("First line\nSecond line");
         // System.out.println("A\tB\tC");
         // System.out.println("D\tE\tF");
-
-        // new Char();
-        // new Loop2();
-        // new EuroConv();
-        // new Lessons1();
-        // new Scope();
-        new Example2();
 
     }
 }

@@ -1,3 +1,4 @@
+package part1;
 // The Math Class
 
 public class Lessons1 {
