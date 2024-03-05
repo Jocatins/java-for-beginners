@@ -13,7 +13,7 @@ class SportsCar {
 class TwoVehicles {
     public static void main(String[] args) {
         Vehicle toyota = new Vehicle();
-        Vehicle porsche = new Vehicle();
+
         SportsCar lamborghini = new SportsCar();
 
         int range1, range2;
