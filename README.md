@@ -34,3 +34,17 @@ method it is called an Argument, while the variable that receives the argument i
 
 The term overloading refers to the act of using the same method/constructor name in a class but
 different parameter declarations. Method overloading is an example of Polymorphism.
+
+In Java programming, overloading constructors is a technique used to allow an object to initialize
+another. This makes coding more efficient.
+
+Arrays in Java are different from arrays in other programming languages because they are
+implemented as objects.
+
+Stacks implement a Last In First Out system (LIFO).
+Queues use a First In First Out order (FIFO).
+
+Understanding the “public static void main(String args[])” line of code – FYI only
+This line really represents a method call, main, having ‘args’ (a string array) as parameter. This array
+stores command-line arguments (CLI arguments), which is any information which follows the
+program name.
