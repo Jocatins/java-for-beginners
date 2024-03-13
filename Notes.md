@@ -48,3 +48,12 @@ Understanding the “public static void main(String args[])” line of code – 
 This line really represents a method call, main, having ‘args’ (a string array) as parameter. This array
 stores command-line arguments (CLI arguments), which is any information which follows the
 program name.
+
+-   Vector and ArrayList
+
+A vector can be defined simply as an Array which can ‘grow’. Nowadays it has been replaced by
+ArrayList.
+
+-   Code snippets used to remove items from an ArrayList:
+
+arrayList.remove( i, object );
